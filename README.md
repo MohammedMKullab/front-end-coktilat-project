@@ -1,3 +1,8 @@
+## Live Demo
+You can view the live version of the project at the following link:
+[Live Demo](https://front-end-coktilat-project.vercel.app)
+
+
 ## Running the Project with Bun
 
 If you prefer to use Bun as your package manager, follow these steps:

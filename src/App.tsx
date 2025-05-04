@@ -52,7 +52,7 @@ function App() {
       />
       <div
         className={clsx(
-          `grid grid-cols-${COLS_NUMBER} gap-4 grid-flow-row-dense`
+          `grid grid-rows-1 lg:grid-cols-3 gap-4 grid-flow-row-dense`
         )}
         role="feed"
         aria-label="List of mental health specialists"
